@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate @ Harvard University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zbucinca.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm a PhD Candidate at Harvard, where I'm fortunate to be advised by Professor Krzysztof Gajos.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie primarily at the intersection of HCI and Responsible AI. I design, build, and evaluate AI-powered systems for decision-making support.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I spent two wonderful summers interning at Microsoft Research, where I was hosted by Dr. Saleema Amershi & Dr. Alexandra Olteanu in 2021 and Dr. Jennifer Wortman Vaughan & Dr. Alexandra Chouldechova in 2022.
+
+My research is currently supported by an IBM fellowship. Prior to joining the Intelligent Interactive Systems group at Harvard as a PhD student, I was a member of the Intelligent User Interfaces Lab and the Multimedia, Vision & Graphics Lab at Koc University in Turkey, from where I obtained my master's degree in 2019. I earned a bachelor's degree in Computer Engineering from Izmir Institute of Technology in 2016. Originally, I come from the capital city of a small country in southeastern Europe - Prishtina, Kosovo.
