@@ -23,6 +23,6 @@ During my PhD, I spent two wonderful summers interning at Microsoft Research, wh
 
 My research has been supported by an [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html) and a [Siebel Scholarship](https://www.businesswire.com/news/home/20240920559594/en/Siebel-Scholars-Foundation-Announces-Class-of-2025). 
 
-Prior to joining the [Intelligent Interactive Systems](https://iis.seas.harvard.edu/) group at Harvard as a PhD student, I obtained a master's degree in Computer Science from [Koc University](https://www.ku.edu.tr/en/) in Istanbul, Turkey and a bachelor's degree in Computer Engineering from [Izmir Institute of Technology](https://en.iyte.edu.tr/). 
+Prior to joining the [Intelligent Interactive Systems](https://iis.seas.harvard.edu/) group at Harvard as a PhD student, I obtained a master's degree in Computer Science from [Koc University](https://www.ku.edu.tr/en/) in Istanbul, Turkey, and a bachelor's degree in Computer Engineering from [Izmir Institute of Technology](https://en.iyte.edu.tr/) in Izmir, Turkey. 
 
 I was born and raised in the capital city of a small country in southeastern Europe - Prishtina, Kosovo.
