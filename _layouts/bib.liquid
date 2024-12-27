@@ -185,7 +185,7 @@
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button" style="background-color: #1966b4; color: white">
+        <a class="award btn btn-sm z-depth-0" role="button" style="background-color: #B71C1CFF; color:white">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
@@ -246,6 +246,11 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.notes %}
+        <a class="award btn btn-sm z-depth-0" role="button" >
+          {{ entry.notes_name }}
+        </a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
@@ -337,6 +342,13 @@
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.notes %}
+      <!-- Hidden Award block -->
+      <div class="award hidden d-print-inline">
+        <p>{{ entry.notes | markdownify }}</p>
       </div>
     {% endif %}
 
