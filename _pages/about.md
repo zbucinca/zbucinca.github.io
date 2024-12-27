@@ -27,4 +27,4 @@ Prior to Harvard, I obtained a master's degree in Computer Science from [Koc Uni
 
 Originally, I come from the capital city of a small country in southeastern Europe - Prishtina, Kosovo. 
 
-<i>I like mischief, adventures, and mornings.</i>
+<i>I like mischief, adventure, and mornings.</i>
