@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate @Harvard
+subtitle: Researcher @Microsoft | Incoming Asst. Prof. @MIT
 
 profile:
   align: right
