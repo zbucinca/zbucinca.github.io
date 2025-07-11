@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a Postdoctoral Researcher at Microsoft in the [Office of Applied Research](https://www.microsoft.com/en-us/research/group/office-of-applied-research/), working with Brent Hecht and Jaime Teevan. Starting Fall 2026, I will join MIT as an Assistant Professor with a shared appointment in Sloan and EECS. I will be recruiting 1-2 PhD students in this upcoming cycle through [MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)! 
+Hi there! I'm a Postdoctoral Researcher at Microsoft in the [Office of Applied Research](https://www.microsoft.com/en-us/research/group/office-of-applied-research/), working with Brent Hecht and Jaime Teevan. Starting Fall 2026, I will join MIT as an Assistant Professor with a shared appointment in Sloan and EECS. I will be recruiting 1-2 PhD students in this upcoming cycle (through [MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/))! 
 
 I recently completed my PhD at Harvard, where I was fortunate to be advised by Professor [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/) and to collaborate closely with Professor [Finale Doshi-Velez](https://finale.seas.harvard.edu/).
 
