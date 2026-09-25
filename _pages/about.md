@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm an Assistant Professor at MIT, with a shared appointment in the Sloan School of Management and the Department of Electrical Engineering and Computer Science. 
 
-_I am unlikely to accept new PhD students for Fall 2027, but if you have independent funding and would like to work together, please reach out._
+<span style="color:brown"> _I am unlikely to accept new PhD students for Fall 2027, but if you have independent funding and would like to work together, please reach out._</span>
 
 My research interests lie primarily at the intersection of Human-AI Interaction and Future of Work. I design human-AI interaction techniques that complement people and amplify their values in AI-assisted work. To achieve this, I focus on (1) understanding how people make AI-assisted decisions and (2) designing novel interaction paradigms, explanations, and systems that optimize both task-centric outcomes, such as accuracy and efficiency, and human-centric outcomes, such as enhancing human skills and agency in AI-assisted tasks.
 
