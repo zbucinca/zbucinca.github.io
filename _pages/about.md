@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher @Microsoft | Incoming Asst. Prof. @MIT
+subtitle: Assistant Professor at MIT
 
 profile:
   align: right
-  image: zbucinca_cropped.png
+  image: zbucinca_updated.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
