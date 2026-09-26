@@ -5,7 +5,7 @@ permalink: /
 subtitle: Assistant Professor at MIT
 
 profile:
-  align: left
+  align: right
   image: zbucinca_updated.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
